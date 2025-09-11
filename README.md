@@ -18,3 +18,6 @@ A motion-activated smart lighting prototype built on Tinkercad using Arduino Uno
 3. Connect PIR, slide switch, and LEDs as per circuit diagram.  
 4. Upload Smart_Lighting.ino into Arduino IDE block.  
 5. Run simulation and check Serial Monitor.  
+
+## Demo
+![screenshot](Connections.png) 
